@@ -1,6 +1,6 @@
 # Incremental Strategy for Applying Mutation Operators Emphasizing Faults Diicult to be Detected by Automated Static Analyser
 
-Vinícius Barcelos Silva, Cláudio Antonio Araujo, Edmundo Sérgio Spoto, and Auri M R Vincenzi. 2017. Incremental Strategy for Applying Mutation Operators Emphasizing Faults Dicult to be Detected by Automated Static Analyser. In Proceedings of SBES’17, Fortaleza, CE, Brazil, September 20–22, 2017, 10 pages. doi: [10.1145/3131151.3131169](https://doi.org/10.1145/3131151.3131169)
+Vinícius Barcelos Silva, Cláudio Antonio Araujo, Edmundo Sérgio Spoto, and Auri M R Vincenzi. 2017. Incremental Strategy for Applying Mutation Operators Emphasizing Faults Difficult to be Detected by Automated Static Analyser. In Proceedings of SBES’17, Fortaleza, CE, Brazil, September 20–22, 2017, 10 pages. doi: [10.1145/3131151.3131169](https://doi.org/10.1145/3131151.3131169)
 
 ## 1. Fichamento de Conteúdo
 
